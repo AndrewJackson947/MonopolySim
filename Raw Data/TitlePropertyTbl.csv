@@ -1,0 +1,23 @@
+Index,Name,Rent,RentColorSet,RentOneHouse,RentTwoHouse,RentThreeHouse,RentFourHouse,RentHotel,HouseCost,HotelCost,MortgageValue,MortgatePay,Color Set
+1,Pennsylvania Avenue,28,56,150,450,1000,1200,1400,200,200,160,176,Green
+2,Pacific Avenue,26,52,130,390,900,1100,1275,200,200,150,165,Green
+3,North Carolina Avenue,26,52,130,390,900,1100,1275,200,200,150,165,Green
+4,Ventor Avenue,22,44,110,330,800,975,1150,150,150,130,143,Yellow
+5,Marvin Gardens,24,48,120,360,850,1025,1200,150,150,140,154,Yellow
+6,St. James Place,14,28,70,200,550,750,950,100,100,90,99,Orange
+7,Tennessee Avenue,14,28,70,200,550,750,950,100,100,90,99,Orange
+8,New York Avenue,16,32,80,220,600,800,1000,100,100,100,110,Orange
+9,Kentucky Avenue,18,36,90,250,700,875,1050,150,150,110,121,Red
+10,Indiana Avenue,18,36,90,250,700,875,1050,150,150,110,121,Red
+11,Illinois Avenue,20,40,100,300,750,925,1100,150,150,120,132,Red
+12,Atlantic Avenue,22,44,110,330,800,975,1150,150,150,130,143,Yellow
+13,Boardwalk,50,100,200,600,1400,1700,2000,200,200,200,220,Dark Blue
+14,Connecticut Avenue,8,16,40,100,300,450,600,50,50,60,66,Light Blue
+15,Park Place,35,70,175,500,1100,1300,1500,200,200,175,193,Dark Blue
+16,Oriental Avenue,6,12,30,90,270,400,550,50,50,50,55,Light Blue
+17,Vermont Avenue,6,12,30,90,270,400,550,50,50,50,55,Light Blue
+18,Baltic Avenue,4,8,20,60,180,320,450,50,50,30,33,Brown
+19,Mediterranean Avenue,2,4,10,30,90,160,250,50,50,30,33,Brown
+20,St. Charles Place,10,20,50,150,450,625,750,100,100,70,77,Pink
+21,States Avenue,10,20,50,150,450,625,750,100,100,70,77,Pink
+22,Virginia Avenue,12,24,60,180,500,700,900,100,100,80,88,Pink
